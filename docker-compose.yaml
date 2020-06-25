@@ -1,9 +1,9 @@
 version: '3'
 services:
   web-proxy:
-    build:
-      context: .
-      dockerfile: web-proxy/Dockerfile
+    image: nginx:stable-alpine
+    volumes:
+    - ./web-proxy/web-app.conf:/etc/nginx/conf.d/default.conf
     ports:
       - "80:80"
   web-app:
