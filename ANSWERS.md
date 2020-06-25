@@ -2,7 +2,10 @@
 It took me around 5 hours before I finished everything and delivered it.
 
 2. **If you had more time, how could you improve your solution?**<br>
-With more time, I will parametrize the app and specify this parameters in the docker-compose (like the host and the port the app is running on). Also if I have to continue developing this app, I will create a Makefile or something similar as a helper for rebuilding, start and stop the containers.
+With more time:
+- I will parametrize the app and specify this parameters in the docker-compose (like the host and the port the app is running on).
+- I will create a Makefile or something similar as a helper for rebuilding, start and stop the containers.
+- I will implement https which is something that I don't usually use localy.
 
 3. **What changes would you do to your solution to be deployed in a production environment?**<br>
 To make this service production ready I will do at least those changes:
