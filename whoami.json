@@ -1,0 +1,65 @@
+{
+  "description": "I started my professional career as a devops, and it became one of the passions of my life, I love this type of work because I always have fun when doing it. In terms of personality I consider myself a very positive, open-minded and organised person both with things related to work and the rest of the things in my life. My hobbies, are spending time with my friends and almost all kind of the sports, because I really think that they increase my happiness when practicing it.",
+  "education": [
+    {
+      "type": "high school",
+      "location": "Institut d'Alella",
+      "end_year": 2007
+    },
+    {
+      "type": "degree in computer science",
+      "location": "UPF Barcelona",
+      "end_year": 2012
+    }
+  ],
+  "tech_experience": {
+    "cloud_providers": [
+      "AWS",
+      "GCP"
+    ],
+    "programming_languages": [
+      "python",
+      "bash",
+      "groovy"
+    ],
+    "databases": [
+      "redis",
+      "mysql",
+      "elasticsearch",
+      "dynamoDB"
+    ],
+    "orchestration_systems": [
+      "k8s",
+      "puppet"
+    ],
+    "monitoring": [
+      "grafana",
+      "sensu",
+      "datadog",
+      "newrelic"
+    ],
+    "others": [
+      "jenkins",
+      "packer",
+      "terraform",
+      "cloudformation",
+      "docker",
+      "nginx"
+    ]
+  },
+  "hobbies": {
+    "sports": [
+      "basketball",
+      "football",
+      "mountain bike",
+      "ski",
+      "wakeboard",
+      "padel",
+      "golf"
+    ],
+    "others": [
+      "videogames",
+      "boats"
+    ]
+  }
+}
