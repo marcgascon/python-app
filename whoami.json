@@ -1,9 +1,12 @@
 {
-  "description": "I started my professional career as a devops, and it became one of the passions of my life, I love this type of work because I always have fun when doing it. In terms of personality I consider myself a very positive, open-minded and organised person both with things related to work and the rest of the things in my life. My hobbies, are spending time with my friends and almost all kind of the sports, because I really think that they increase my happiness when practicing it.",
+  "description": {
+    "work": "I started my professional career as a devops, and it became one of the passions of my life, I love this job and I always have fun when doing it.",
+    "personality": "I consider myself a very positive, open-minded and organised person both with things related to work and the rest of the things in my life."
+  }
   "education": [
     {
       "type": "high school",
-      "location": "Institut d'Alella",
+      "location": "IES Alella",
       "end_year": 2007
     },
     {
